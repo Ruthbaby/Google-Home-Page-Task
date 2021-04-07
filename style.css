@@ -17,12 +17,13 @@ a:hover{
     text-decoration: underline;
 }
 nav img {
-    height: 5px;
+    height: 15px;
 }
 main {
     width: 50%;
     margin: 7em auto;
    text-align: center;
+   line-height: 2em;
 }
 input {
     width: 100%;
